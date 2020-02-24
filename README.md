@@ -1,6 +1,6 @@
 # Open in Browser
 
-This is a workflow for [Alfred](https://www.alfredapp.com) forked from [AndrewC-B/alfred-open-in-chrome](https://github.com/AndrewC-B/alfred-open-in-chrome) and extended to include Firefox functionality as well.
+This is a workflow for [Alfred](https://www.alfredapp.com) forked from [AndrewC-B/alfred-open-in-chrome](https://github.com/AndrewC-B/alfred-open-in-chrome) and extended to include Firefox functionality.
 
 ## Usage Notes
 
